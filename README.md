@@ -5,11 +5,11 @@
 </h1>
 
 <h4 align="center">
-Contact me at @Degendudes to about more.
+Contact me at @Degendudes on Bitclout.com
 </h4>
 
 <h4 align="center">
-Clone of the TikTok app layout. 
+Clone of the TikTok app layout on Bitclout frontend. 
 </h4>
 
 <p align="center">
