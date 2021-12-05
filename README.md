@@ -1,11 +1,11 @@
 <h1 align="center">
 <img alt="tiktokclone" title="tiktokclone" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588992052/tiktok-clone/tiktok_x9nihm.png" width="100px" />
     <br>
-    TikTok Clone
+    TikTok Clone on Deso Protocol
 </h1>
 
 <h4 align="center">
-Contact me at matheuscastroweb@gmail.com to about more.
+Contact me at @Degendudes to about more.
 </h4>
 
 <h4 align="center">
@@ -41,54 +41,4 @@ Clone of the TikTok app layout.
  <img alt="me" title="me" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588992052/tiktok-clone/preview-03_hkp6vf.png" />
 </p>
 
-## Technologies
 
-This project was developed with the following technologies:
-
-- [Expo](https://expo.io/)
-- [React-Native](https://facebook.github.io/react-native/)
-- [React Navigation](https://reactnavigation.org/)
-- [styled-components](https://www.styled-components.com/)
-- [expo-av](https://docs.expo.io/versions/latest/sdk/av/)
-- [expo-camera](https://docs.expo.io/versions/latest/sdk/camera/)
-- [@react-native-community/viewpager](https://github.com/react-native-community/react-native-viewpager)
-- [@expo/vector-icons](https://expo.github.io/vector-icons/)
-- [expo-linear-gradient](https://docs.expo.io/versions/latest/sdk/linear-gradient/)
-- [react-native-status-bar-height](https://github.com/ovr/react-native-status-bar-height)
-- [lottie-react-native](https://docs.expo.io/versions/latest/sdk/lottie/)
-- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
-
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher + [Expo CLI][expo] installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/matheuscastroweb/tiktok-clone
-tiktok-clone
-
-# Go into the repository
-$ cd tiktok-clone
-
-# Install dependencies
-$ yarn install
-
-# Run the app (iOS)
-$ yarn ios
-
-# Run the app (Android)
-$ yarn android
-```
-
-## License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/matheuscastroweb/tiktok-clone/blob/master/LICENSE) for more information.
-
----
-
-[nodejs]: https://nodejs.org/
-[expo]: https://expo.io/tools
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
