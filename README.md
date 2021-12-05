@@ -26,9 +26,6 @@ Clone of the TikTok app layout on Bitclout frontend.
   <a href="#license">License</a>
 </p>
 <br>
-<p align="center">
- <img alt="tiktokclonepreview" title="tiktokclonepreview" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588994570/tiktok-clone/preview-01_sgeuca.gif" /><br>
-</p>
 <br>
 <p align="center">
   Under development screens
@@ -38,7 +35,6 @@ Clone of the TikTok app layout on Bitclout frontend.
  <br>
    <img alt="discover" title="discover" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588992052/tiktok-clone/preview-04_nqykq9.png" />
   <img alt="inbox" title="inbox" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588992052/tiktok-clone/preview-02_hlvirt.png"/>
- <img alt="me" title="me" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588992052/tiktok-clone/preview-03_hkp6vf.png" />
 </p>
 
 
